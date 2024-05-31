@@ -1,0 +1,6 @@
+apiVersion: batch.example.com/v1
+kind: PodCleanup
+metadata:
+  name: pod-cleanup-sample
+spec:
+# Add fields here
